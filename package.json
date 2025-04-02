@@ -61,5 +61,6 @@
   },
   "devDependencies": {
     "immutable": "^4.3.5"
-  }
+  },
+  "homepage": "https://aiworkremote.com"
 }
